@@ -1,1 +1,1 @@
-Hola
+Computational Astrophysics course repository
